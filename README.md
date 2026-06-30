@@ -121,7 +121,8 @@ Accuracy:  0.9596  (≈ 96%)
 | "WINNER!! This is the secret code to unlock the money: C3421." | spam |
 | "Sounds good, Tom, then see u there" | ham |
 
-*(Add a screenshot of the notebook's output cells here if you'd like a visual alongside the table.)*
+<img width="541" height="536" alt="Screenshot 2026-06-30 at 5 06 06 PM" src="https://github.com/user-attachments/assets/722be09e-dd94-40c0-8122-de29c20a3fe2" />
+
 
 ---
 
